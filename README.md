@@ -8,4 +8,4 @@ Environment Vars:
 
 • email -> your email or CPF
 
-•password -> your password
+• password -> your password
